@@ -144,7 +144,8 @@ hue='technology'
 sns.despine()  
 plt.show()
 ### result
-![alt text](image-4.png)
+[![EDA Scatter Plot](https://raw.githubusercontent.com/harsh-bca/EDA-Project/main/assets/scatter%20plot.png)](https://raw.githubusercontent.com/harsh-bca/EDA-Project/main/assets/scatter%20plot.png)
+
 
 ## 💡 Key Insights:
 1. High Salary, Low Prevalence Tools:
