@@ -26,7 +26,8 @@ fig.tight_layout(h_pad=0.8)
 
 '''
 ### results
-![alt text](image.png)
+[![EDA Bar Chart](https://raw.githubusercontent.com/harsh-bca/EDA-Project/main/assets/bar%20chart.png)](https://raw.githubusercontent.com/harsh-bca/EDA-Project/main/assets/bar%20chart.png)
+
 
 ### Insights 💡
 -SQL is a versatile skill, highly demanded across all three roles, but most prominently for data  engineers (63%) and data analysts (49%). 
@@ -53,7 +54,8 @@ plt.tight_layout()
 plt.show()
 
 ### Result
-![alt text](image-1.png)
+[![EDA Line Chart](https://raw.githubusercontent.com/harsh-bca/EDA-Project/main/assets/line%20chart.png)](https://raw.githubusercontent.com/harsh-bca/EDA-Project/main/assets/line%20chart.png)
+
 
 ### 📌 Top-Level Insights:
 SQL is consistently the most in-demand skill, maintaining demand levels above 50% throughout the year, peaking around May and again in December.
@@ -80,7 +82,8 @@ plt.gca().xaxis.set_major_formatter(ticks_x)
 plt.show()     
 '''
 ### Results
-![alt text](image-2.png)
+[![EDA Boxplot](https://raw.githubusercontent.com/harsh-bca/EDA-Project/main/assets/boxplot.png)](https://raw.githubusercontent.com/harsh-bca/EDA-Project/main/assets/boxplot.png)
+
 #### Box Plot visualizing the salary distributions for top 6 data jobs in India
 
 ### 
@@ -113,7 +116,8 @@ ax[1].set_title('Top 10 Demanding Skills for Data Analyst in India')
 ax[1].set_ylabel('')
 
 ### Result
-![alt text](image-3.png)
+[![EDA Bar Subplot](https://raw.githubusercontent.com/harsh-bca/EDA-Project/main/assets/bar%20subplot.png)](https://raw.githubusercontent.com/harsh-bca/EDA-Project/main/assets/bar%20subplot.png)
+
 
 🔎 Key Observations:   
 -Big Data & Cloud-related tools like PySpark, MongoDB, and Data Lake offer very high salaries.
