@@ -51,8 +51,7 @@ df_india=df[(df['job_country']=='India')]
 ## to find the most demanded skills for the top three most popular data roles, I filtered those positions by popularity and identified the top five skills for each of these roles. This query highlights the most popular job titles and their top skills, showing which skills I should pay attention to depending on the role I am targeting. 
 
 ## view my notebook here.
-[Open 2_skill_demand.ipynb Notebook](https://github.com/harsh-bca/EDA-Project/blob/main/EDA%20project/2_skill_demand.ipynb)
-
+[View 2_skill_demand.ipynb in nbviewer](https://nbviewer.org/github/harsh-bca/EDA-Project/blob/main/2_skill_demand.ipynb)
 
 ## visualize data
 ''' Python
